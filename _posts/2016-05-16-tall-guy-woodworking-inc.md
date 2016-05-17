@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Tall Guy Woodworking Inc '
-datePublished: '2016-05-17T01:00:48.081Z'
-dateModified: '2016-05-17T00:59:54.428Z'
+description: Tall Guy Woodworking Inc
+datePublished: '2016-05-17T01:05:49.268Z'
+dateModified: '2016-05-17T01:05:29.160Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-16-tall-guy-woodworking-inc.md
