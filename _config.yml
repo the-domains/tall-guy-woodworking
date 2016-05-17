@@ -1,6 +1,6 @@
 name: Tall Guy Woodworking Inc
 favicon: null
-layout_spectrum: 0.30203
+layout_spectrum: 0.71806
 typography_spectrum: 0.50064
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#d4ac6d'
     - '#949351'
   brandStrength: 0.5
-  lightness: 0.05221999133937061
+  lightness: 0.5
   saturation: 0.6984271488618106
   rhythmicContrast: 0.622400232590735
 purpose: []
