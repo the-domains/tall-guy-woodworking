@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Tall Guy Woodworking Inc '
-datePublished: '2016-05-16T20:11:49.804Z'
-dateModified: '2016-05-16T20:00:50.224Z'
+datePublished: '2016-05-17T01:00:48.081Z'
+dateModified: '2016-05-17T00:59:54.428Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-16-tall-guy-woodworking-inc.md
 authors: []
 publisher:
   name: null
@@ -16,11 +17,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-16-tall-guy-woodworking-inc.md
 url: tall-guy-woodworking-inc/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa3bef51-2e2c-46cd-abaf-b97fc68d211b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f0b97cd-4381-4070-a810-7aa4cbf81068.jpg)
 
 Tall Guy Woodworking Inc
